@@ -61,4 +61,3 @@ This is an e-commerce website developed using React, CSS, JSX, Bootstrap, and Ex
 
 ---
 
-Feel free to customize this template according to your specific project details and preferences. Let me know if you need further assistance!
